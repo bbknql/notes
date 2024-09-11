@@ -1,0 +1,7 @@
+django>=3.14.8
+numpy>=1.14.1
+numpy>=1.11.9
+flask>=3.12.7
+flask>=2.13.8
+matplotlib>=1.17.9
+jupyter>=1.0.9
